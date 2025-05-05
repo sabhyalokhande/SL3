@@ -1,0 +1,9 @@
+True friends are like stars; you donâ€™t always see them, but you know they are always there. A friend is someone who knows all about you and still loves you. The best memories are made when friends come together, no matter the time or place. Friendship is born at that moment when one person says to another, "What! You too? I thought I was the only one."
+
+'  Natural Language Processing is fun',
+        np.nan,
+        '   ',
+        'I love AI and machine learning',
+        '',
+        'Deep Learning is a subset of AI',
+        '  NLP applications are amazing    '
